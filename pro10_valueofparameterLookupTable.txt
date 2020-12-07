@@ -1,0 +1,6 @@
+//this values are initialized in the lookup table parameters
+
+//use voltage as breakpoint
+voltage = [0 0.58 0.66 0.69 0.70 0.71 0.72 0.73 0.74 0.75 0.76 0.77];
+
+current = [0 0 5 10 15 20 25 30 40 55 70 100];
